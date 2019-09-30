@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700&display=swap');
+
+#textbox{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #304a5f;
+}
+#left-up p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #304a5f;
+}
+#right-down p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #304a5f;
+}
+.name{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+#name{
+    border: none;
+    border-radius: 0;
+    border-bottom: 0.5px solid #304a5f;
+}
+.output1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+.mail{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+#email{
+    border: none;
+    border-radius: 0;
+    border-bottom: 0.5px solid #304a5f;
+}
+.output2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+
+.telephone{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+#phone{
+    border: none;
+    border-radius: 0;
+    border-bottom: 0.5px solid #304a5f;
+}
+.output3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+
+
+.conditions{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 11px;
+    color: #304a5f;
+}
+.output4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #304a5f;
+}
+
+button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    background-color: #e6007e;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+button:hover{
+    background-color: #cd0171;
+}
+
+#bluebox{
+    background-color: #2a697b;
+}
+.light-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 19px;
+    color: white;
+}
+.speech-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 19px;
+    color: white;
+}
+.medal-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 19px;
+    color: white;
+}
+
+#footer{
+    background-color: #313131;
+}
+.info{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: white;
+}
+.description{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+}
